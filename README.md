@@ -30,7 +30,7 @@ AI systems • Platform engineering • Frontend performance
 
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/avi-nash-s)
+[To know more about me](https://www.linkedin.com/in/avi-nash-s)
 
 ---
 
