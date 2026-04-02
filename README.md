@@ -1,95 +1,37 @@
-# 👋 Hi, I'm Avinash
+<h1 align="center" >Hi, I'm Avinash 👋</h1>
 
-🚀 **Lead Experience Engineer | AI Solutions & Platform Specialist**
-💻 JavaScript | Python | Full-Stack Development
-📍 Bengaluru, India
+<h4 align="center"><strong>Lead Experience Engineer | Full-Stack | AI & Platforms</strong></h4>
 
 ---
 
 ## 🧠 About Me
 
-I'm a passionate **full-stack developer with 6+ years of experience** building:
+Full-stack engineer (6+ yrs) building scalable web apps, APIs, and data systems.
 
-- Scalable web applications
-- APIs & backend services
-- CLI tools
-- Data pipelines
-
-I enjoy blending **frontend craftsmanship** with **practical backend and data engineering**, while keeping performance, usability, and scalability in mind.
-
-> I believe in building things that are not just functional — but meaningful.
+Frontend-heavy (JavaScript/React) with strong backend and data foundations. I build performant, user-centric products with clean, reliable architecture.
 
 ---
 
-## ⚙️ Tech Stack
+## 🚀 Focus
 
-### 💡 Languages
-
-- JavaScript (ES6+)
-- Python
-- TypeScript (familiar)
-
-### 🎨 Frontend
-
-- React
-- Modern UI architectures
-- Performance optimization
-- Component-driven design
-
-### 🔧 Backend & Data
-
-- API design & development
-- Data pipelines
-- Distributed systems (fundamentals)
-
-### 🧰 Tools & Interests
-
-- CLI tools development
-- System design thinking
-- AI-driven applications
-- Developer experience (DX)
+- Ownership-driven, fast ramp-up
+- Strong UX + performance focus
+- End-to-end product thinking
+- Agentic-AI
+- Platform development
 
 ---
 
-## 🚀 What I Bring
+## 🌱 Interest
 
-- ⚡ Strong **creative + analytical thinking**
-- 🤝 Collaborative team player
-- 🔍 Attention to detail in UX & engineering
-- ⚙️ Ability to quickly ramp up in new codebases
-- 🧩 Problem-solving mindset with real-world impact
+AI systems • Platform engineering • Frontend performance
 
 ---
 
-## 🌱 Current Focus
+## 📫 Connect
 
-- Building **AI-powered applications**
-- Improving **frontend architecture & performance**
-- Exploring **scalable system design**
-- Enhancing **developer experience**
+[LinkedIn](https://www.linkedin.com/in/avi-nash-s)
 
 ---
 
-## 📌 Open To
-
-- Senior Software Engineer roles
-- Lead Engineer opportunities
-- Frontend / Full-stack roles
-- AI-driven product engineering
-
----
-
-## 📫 Let's Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/avi-nash-s
-- 🤝 Always open to collaboration, ideas, and interesting problems
-
----
-
-## ✨ Personal Note
-
-> _I #BelieveInMyself 🚀_
-
----
-
-⭐️ If you find my work interesting, feel free to connect or collaborate!
+🚀 _I #BelieveInMyself_
