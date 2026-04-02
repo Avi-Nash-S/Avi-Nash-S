@@ -28,9 +28,13 @@ AI systems • Platform engineering • Frontend performance
 
 ---
 
-## 📫 Connect
+## Let’s Build Something Meaningful
 
 [To know more about me](https://www.linkedin.com/in/avi-nash-s)
+
+I’m always interested in solving complex engineering problems and building impactful systems.
+
+→ Reach out for opportunities, collaborations, or just a tech discussion.
 
 ---
 
